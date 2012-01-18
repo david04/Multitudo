@@ -40,6 +40,7 @@ public class ChatBox extends Component {
      */
     public ChatBox(int history) {
         this();
+	callMyFun();
         this.history = history;
     }
 
