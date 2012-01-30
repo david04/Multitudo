@@ -8,6 +8,7 @@ import javax.microedition.lcdui.Image;
 
 /**
  * This class implements user interface chat message display class.
+ * This is indeed a very fine class!
  */
 public class ChatBox extends Component {
     private Vector messageList;
